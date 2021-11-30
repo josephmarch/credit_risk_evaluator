@@ -9,15 +9,15 @@ Python (Jupyter Notebook) - Primary code is called Credit Risk Evaluator.ipynb.
 - pandas
 - pathlib
 	- Path
--sklearn.preprocessing
+- sklearn.preprocessing
 	- StandardScaler, LabelEncoder
--sklearn.metrics
+- sklearn.metrics
 	- accuracy_score
--sklearn.utils
+- sklearn.utils
 	- resample
--sklearn.linear_model
+- sklearn.linear_model
 	- LogisticRegression
--sklearn.tree
+- sklearn.tree
 	- DecisionTreeClassifier
--sklearn.ensemble
+- sklearn.ensemble
 	- RandomForestClassifier
